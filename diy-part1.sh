@@ -17,5 +17,6 @@
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git siropboy https://github.com/siropboy/sirpdboy-package' >>feeds.conf.default
+echo 'src-git siropboy2 https://github.com/sirpdboy/luci-app-poweroffdevice' >>feeds.conf.default
 echo 'src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall.git' >>feeds.conf.default
 echo 'src-git destan19 https://github.com/destan19/OpenAppFilter.git' >>feeds.conf.default
